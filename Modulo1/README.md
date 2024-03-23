@@ -30,5 +30,3 @@ No script `03_challenge.sql`, as seguintes consultas são realizadas:
 - Retorna os dados do modelo de carro com ID 3.
 
 ---
-
-Você pode adicionar ou modificar qualquer informação conforme necessário para atender às necessidades do seu exercício. Certifique-se de manter o README atualizado conforme você faz alterações ou adiciona novos recursos ao seu banco de dados.
