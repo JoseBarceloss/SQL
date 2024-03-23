@@ -1,3 +1,5 @@
+-- trybeCar/03_challenge.sql
+
 -- colocando valores na tabela models
 INSERT INTO TryBD_cars.models (name, brand)
 VALUES('Roberta', 'Monza' );

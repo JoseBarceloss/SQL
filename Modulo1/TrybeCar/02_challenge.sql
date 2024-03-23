@@ -1,3 +1,5 @@
+-- trybeCar/02_challenge.sql
+
 -- Crie uma tabela chamada 'models' com as seguinties colunas:
 CREATE TABLE TryBD_cars.models (
     id INT AUTO_INCREMENT PRIMARY KEY,
