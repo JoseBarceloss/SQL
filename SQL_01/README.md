@@ -1,27 +1,23 @@
-# Relatório de Aprendizado - StorageShop 📦📊
+# Relatório de Aprendizado - TrybeCar Database 🚗
 
-Este relatório documenta minhas experiências ao trabalhar no exercise StorageShop. Durante este exercise, aprendi vários conceitos e executei várias tarefas relacionadas a bancos de dados. Abaixo está uma visão geral do que foi realizado:
+Este é um exercício de banco de dados chamado TrybeCar, que contém informações sobre modelos de carros e seus proprietários.
 
-## Aprendizado e Tarefas Realizadas ✔️
-
-### Criação do Banco de Dados e Tabela
-
-- Criei um banco de dados chamado StorageShop.
-- Criei uma tabela chamada `StorageShop` para armazenar informações sobre produtos em um armazém.
-- A tabela possui colunas para `id`, `item_name` e `validate_date`.
-
-### Inserção e Manipulação de Dados
-
-- Inseri dados de exemplo na tabela `StorageShop`, incluindo nomes de produtos e datas de validade.
-- Utilizei diferentes técnicas para filtrar dados com base em critérios específicos, como datas de validade e nomes de produtos.
-- Atualizei registros na tabela, alterando o nome de um item e marcando itens como vencidos ou não vencidos com base em suas datas de validade.
-
-### Práticas de Segurança
-
-- Conscientizei-me sobre a importância de usar cláusulas `WHERE` ao executar comandos `UPDATE` e `DELETE` para evitar atualizar ou excluir acidentalmente todos os registros da tabela.
-- Verifiquei e ativei a segurança de atualização para evitar atualizações não intencionais.
-
-### Documentação e Precauções
-
-- Criei um arquivo `attention.sql` para documentar os riscos associados a comandos de `UPDATE` e `DELETE` sem cláusulas `WHERE`.
-- Escrevi um README detalhando o que aprendi e as tarefas que realizei durante o exercise StorageShop.
+## Estrutura do Banco de Dados 📋
+O banco de dados TrybeCar é composto por uma única tabela chamada `models`, que possui as seguintes colunas:
+- `id`: Um identificador único para cada modelo de carro (chave primária).
+- `name`: O nome do proprietário do carro.
+- `brand`: A marca do carro.
+## Scripts SQL 💻
+O exercício consiste em três scripts SQL:
+1. **01_challenge.sql**: Este script cria o banco de dados TrybeCar, se ainda não existir.
+2. **02_challenge.sql**: Define a estrutura da tabela `models`.
+3. **03_challenge.sql**: Popula a tabela `models` com alguns dados de exemplo e realiza consultas simples.
+## Consultas Realizadas 📊
+No script `03_challenge.sql`, as seguintes consultas são realizadas:
+- Imprime todos os itens da lista.
+- Imprime apenas o nome.
+- Muda o nome da lista para 'Nome Do Dono!'.
+- Muda o nome da lista para 'Modelo do carro'.
+- Retorna o nome do proprietário e a marca do carro onde o proprietário é 'Roberta'.
+- Retorna os dados do modelo de carro com ID 3.
+---
