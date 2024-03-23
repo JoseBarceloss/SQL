@@ -1,5 +1,7 @@
 # Prática Diária de SQL - Exercícios por Módulo
 
+⚠️ Lembrando que este repositório serve de exemplo de como organizo meus repositórios privados ⚠️
+
 Este repositório contém uma série de arquivos SQL divididos por módulos, onde pratico conceitos específicos para aprimorar minhas habilidades em SQL. Cada módulo aborda diferentes aspectos e níveis de complexidade, permitindo um aprendizado progressivo e focado em áreas específicas.
 
 ---
@@ -33,7 +35,7 @@ Inicialmente, este repositório estava configurado como privado, sendo parte do 
 ---
 
 <div align="center">
-  <h4>⚠️ Obrigado por visitar! Lembrando que este repositório serve de exemplo de como organizo meus repositórios privados. ⚠️</h4>
+  <h4> Obrigado por visitar! </h4>
   
   <p align="center">
     <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="300" height="250">
