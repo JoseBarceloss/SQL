@@ -1,6 +1,6 @@
 # Relatório de Aprendizado - StorageShop 📦📊
 
-Este relatório documenta minhas experiências ao trabalhar no projeto StorageShop. Durante este projeto, aprendi vários conceitos e executei várias tarefas relacionadas a bancos de dados. Abaixo está uma visão geral do que foi realizado:
+Este relatório documenta minhas experiências ao trabalhar no exercise StorageShop. Durante este exercise, aprendi vários conceitos e executei várias tarefas relacionadas a bancos de dados. Abaixo está uma visão geral do que foi realizado:
 
 ## Aprendizado e Tarefas Realizadas ✔️
 
@@ -24,5 +24,4 @@ Este relatório documenta minhas experiências ao trabalhar no projeto StorageSh
 ### Documentação e Precauções
 
 - Criei um arquivo `attention.sql` para documentar os riscos associados a comandos de `UPDATE` e `DELETE` sem cláusulas `WHERE`.
-- Escrevi um README detalhando o que aprendi e as tarefas que realizei durante o projeto StorageShop.
-
+- Escrevi um README detalhando o que aprendi e as tarefas que realizei durante o exercise StorageShop.
