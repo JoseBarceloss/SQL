@@ -35,7 +35,7 @@ Inicialmente, este repositório estava configurado como privado, sendo parte do 
 ---
 
 <div align="center">
-  <h4> Obrigado por visitar! </h4>
+  <h4> Obrigado por visitar!! </h4>
   
   <p align="center">
     <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="300" height="250">
