@@ -1,0 +1,3 @@
+CREATE DATABASE AirBnB;
+
+USE AirBnB;
