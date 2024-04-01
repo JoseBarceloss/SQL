@@ -22,6 +22,8 @@ Neste Arquivo, você encontrará um exemplo simples de como lidar com relacionam
 
 6. **Consulta de Dados Relacionados**: Utilizando operações de junção (JOIN), foram recuperadas informações das casas juntamente com os detalhes de seus proprietários.
 
+---
+
 ### O que Aprendi:
 
 - **Criação de Tabelas**: Foi aprendido como criar tabelas em um banco de dados relacional usando SQL, definindo os tipos de dados adequados para cada coluna.
